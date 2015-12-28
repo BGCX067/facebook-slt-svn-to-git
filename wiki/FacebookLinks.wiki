@@ -1,0 +1,7 @@
+#Notes and useful links.
+
+=Useful Links=
+  * Permission Keywords: http://developers.facebook.com/docs/authentication/permissions/
+  * In app tutorial: http://developers.facebook.com/docs/guides/canvas/#auth
+=Notes=
+  #need to hack facebook.php to turn off SSL. 
